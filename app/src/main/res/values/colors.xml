@@ -7,4 +7,218 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="common_bg">#fcfcfc</color>
+    <color name="divider_list">#d4d4d4</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="gray_normal">#666667</color>
+    <color name="dull_red">#FA5951</color>
+
+    <color name="ofashion_theme_color">#FF7711</color>
+    <color name="ofashion_time_color">#F84215</color>
+
+    <color name="btn_white_normal">#f7f8f8</color>
+
+    <!-- 80% opacity -->
+    <color name="darkgray">#5B5B5B</color>
+    <!-- 7% opacity -->
+    <!-- 20% opacity -->
+    <color name="home_goods_price_background">#89FFFFFF</color> <!-- 35% opacity -->
+    <!-- 10% opacity -->
+    <!-- 20% opacity -->
+    <color name="topic_of_conversation_tag_background">#99000000</color> <!-- 20% opacity -->
+
+    <color name="view_line_in_order">#EEEEEE</color>
+    <color name="prefecture_coupon_subTitle">#B8886B </color>
+
+    <color name="lighter_gray">#F0F0F0</color>
+    <color name="gray">#D0D0D0</color>
+    <color name="red">#FF0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange">@color/ofashion_theme_color</color>
+    <color name="dialog_button_text">#FF333333</color>
+    <color name="dialog_button_pressed">#99ff7711</color> <!-- 60 % opacity -->
+    <!-- 30 % opacity -->
+    <color name="dialog_button_separator">#25000000</color> <!-- 7% opacity -->
+    <color name="top_detail_recent_top_background">#66000000</color> <!-- 30% opacity -->
+    <color name="main_home_good_price_background">#4C000000</color> <!-- 30% opacity -->
+    <color name="main_home_good_price_background_intimate_purchase">#FFF8214C</color>
+    <color name="main_home_collection_background">#33000000</color> <!-- 20% opacity -->
+    <color name="line_is_display">#BD3214</color>
+    <color name="dialog_bg">#66000000</color>
+    <color name="buyer_cover_bg">#3C000000</color>
+    <color name="background_color">#F2F2F6</color>
+    <color name="goods_detail_background_color">#FFF8F8F8</color>
+    <color name="webview_background_color">#FFECECEC</color>
+    <color name="color_background">#f0eff5</color>
+    <color name="search_brand_item">#FFF4F4F4</color>
+    <color name="next_type_background">#FFF7F7F7</color>
+    <color name="code">#7e7e7e</color>
+    <color name="search_bg">#FAFAFA</color>
+    <color name="search_content_bg">#B9B9B9</color>
+    <color name="search_hot_bg">#fff5f6f9</color>
+
+    <!--<color name="brand_activity">#C0B497</color>-->
+    <color name="brand_activity">#1B1B1B</color>
+
+    <!-- head bar -->
+    <color name="head_bar_line_color">#FFDDDDDD</color>
+    <color name="buy_color">#F6F5F5</color>
+    <color name="arrow_color">#979797</color>
+
+    <!-- page title bar -->
+    <color name="page_title_bar_unselected_color">#FF666666</color>
+
+    <!-- Begin colors for Tab bar -->
+    <color name="view_shared_tab_bar_unselected_title_color">#FF999999</color>
+    <!-- End colors for Tab bar -->
+
+    <color name="divider_color">#cccccc</color>
+
+    <!-- error view -->
+    <color name="empty_view_top_view_background">@color/white</color>
+
+    <!-- common color -->
+    <color name="common_light_bg_text_two_level_color">#FF444444</color>
+    <color name="common_light_bg_text_three_level_color">#FF999999</color>
+    <color name="common_deep_bg_text_three_level_color">#FF999999</color>
+    <color name="common_one_dp_bg_color">#FFdddddd</color>
+
+    <!-- detail -->
+    <color name="detail_textcolor_white">#ffffff</color>
+    <color name="detail_text_color_gray">#FF999999</color>
+    <color name="detail_text_color_little_gray">#FFCDCDCD</color>
+    <color name="detail_textcolor_price_now">#ff7711</color>
+    <color name="detail_text_color_like_count">#222222</color>
+    <color name="detail_textcolor_specification_title">#222222</color>
+    <color name="detail_textcolor_goodsdetail_content">#444444</color>
+    <color name="no_click_color">#DADADA</color>
+    <color name="brand_activity_title_bg">#24211E</color>
+    <color name="edit_activity_bg">#F2F2F6</color>
+    <color name="edit_select_bg">#F2F2F2</color>
+    <color name="home_banner_progress_back">#6Affffff</color>
+    <color name="edit_collection">#FBFBFB</color>
+    <color name="goods_brand">#FF7711</color>
+    <color name="goods_brand_price">#FF5811</color>
+    <color name="search_goods_not">#FF222222</color>
+
+    <!-- detail -->
+    <color name="goods_flow">#80000000</color>
+
+    <!--
+    <string name="favoritegoods_arrival">到货通知</string>
+    <string name="favoritegoods_price">报价通知</string>
+    <string name="favoritegoods_depreciate">降价通知</string>
+    -->
+    <color name="favoritegoods_arrival_text_color">#FF39B44A</color>
+    <color name="favoritegoods_price_background_color">#FF3CC8F0</color>
+    <color name="favoritegoods_depreciate_text_color">#FFFF7711</color>
+
+    <!--自动回复背景-->
+    <color name="auto_replay_background">#7FFFD5D5</color>
+    <color name="main_home_goods_price_color">#FFFF9A4E</color>
+
+    <!-- 店铺品牌授权 -->
+    <color name="buyer_home_authorization_brands_backgrount">#FFFFFFFF</color>
+    <color name="buyer_home_authorization_brands_boder">#FFC2C2C2</color>
+
+    <!--店铺评分-->
+    <color name="score_black_color">#444444</color>
+    <color name="score_orange_color">#ff7711</color>
+    <color name="score_green_color">#00cc00</color>
+
+    <color name="user_frequently_used_size_color">#B4B4B4</color>
+    <color name="size_table_left_background">#FFF9F9F9</color>
+
+    <!--合集规则-->
+    <color name="collection_group_rule">#666666</color>
+    <color name="collection_group_start">#4A4A4A</color>
+
+    <!--亲密购详情-->
+    <color name="dear_group_goods_brand">#666666</color>
+    <color name="dear_group_origin_goods_price">#999999</color>
+    <color name="dear_group_rule_title">#444444</color>
+    <color name="dear_group_rule_content">#666666</color>
+    <color name="dear_group_rule_bg">#F9F9F9</color>
+    <color name="dear_group_remain_order">#FFF364</color>
+
+    <!--租赁订单列表-->
+    <color name="rent_order_code_color">#666666</color>
+    <color name="rent_order_brand_color">#444444</color>
+    <color name="rent_goods_detail_experiencing_subscribe">#FFFFB400</color>
+
+    <!--选择售后服务类型-->
+    <color name="after_sale_service_brand_color">#444444</color>
+    <color name="after_sale_service_name_color">#666666</color>
+    <color name="after_sale_service_pay_title_color">#535353</color>
+    <color name="after_sale_service_sub_title_color">#999999</color>
+
+    <!--退款进度-->
+    <color name="order_refund_66_color">#666666</color>
+    <color name="order_refund_22_color">#222222</color>
+    <color name="order_refund_44_color">#444444</color>
+    <color name="order_refund_99_color">#999999</color>
+    <color name="order_refund_87_color">#878787</color>
+    <color name="order_refund_f8_color">#f8f8f8</color>
+    <color name="order_refund_da_color">#dadada</color>
+    <color name="order_refund_cc_color">#cccccc</color>
+
+    <!--社区-->
+    <color name="of_community_f4_color">#FF444444</color>
+    <color name="of_community_f9_color">#FF999999</color>
+    <color name="of_community_fb5_color">#FFB5B5B5</color>
+    <color name="of_community_f6_color">#FF666666</color>
+
+    <!--预约-->
+    <color name="of_subscribe_f4_color">#FF444444</color>
+    <color name="of_subscribe_f6_color">#FF666666</color>
+    <color name="of_subscribe_fb5_color">#FFB5B5B5</color>
+    <color name="of_subscribe_fd_color">#FFDDDDDD</color>
+    <color name="of_subscribe_f9_color">#FF999999</color>
+
+    <color name="save_color">#0088ff</color>
+    <color name="bind_wx_bg">#33ff7711</color>
+    <color name="text_color_33">#333333</color>
+    <color name="text_color_d8">#D8D8D8</color>
+
+    <color name="order_confirm_fa5951">#99FA5951</color>
+    <color name="order_confirm_fa5952">#99FA5951</color>
+
+    <color name="order_confirm_e66161">#E6E66161</color>
+    <color name="main_spu_f2f2f7">#f2f2F7</color>
+    <color name="main_spu_bc">#BCBCBC</color>
+    <color name="main_brand_bc">#666666</color>
+    <color name="picture_color_fa632d">#FA632D</color>
+
+    <color name="blue">#5234FF</color>
+    <color name="green">#12784A</color>
+    <color name="orange_new">#FF5811</color>
+    <color name="orange_buttom">#33FF5811</color>
+    <color name="goods_sku_bg">#FF4811</color>
+    <color name="goods_volume_bg">#FF7711</color>
+
+    <color name="color_de">#dedede</color>
+    <color name="of_community_f46_color">#000000</color>
+    <color name="banner_v2">#AB8B58</color>
+
+
+    <color name="unlock">#FDCAB4</color>
+    <color name="apwhite">#56FFFFFF</color>
+    <color name="zhizun">#EEC776</color>
+    <color name="coupon_image_text_color">#E3B963</color>
+    <color name="coupon_image_text_title">#EEC776</color>
+    <color name="coupon_image_text_des">#BFAA80</color>
+    <color name="coupon_content_text_color">#F6DAA2</color>
+    <color name="coupon_top">#6FFFFFFF</color>
+    <color name="coupon_top_get">#F4CEA7</color>
+    <color name="coupon_get">#916445</color>
+    <color name="coupon_overdue">#BBBBBBBB</color>
+    <color name="coupon_other">#FF9A70</color>
+    <color name="page_coupon_overdue_background">#F4F4F4</color>
+    <color name="page_coupon_overdue_text">#C1C1C1</color>
+    <color name="page_coupon_overdue_use_text">#D1D1D1</color>
+    <color name="page_coupon_overdue_usePrange">#FCFCFC</color>
+    <color name="user_browsing_delete">#D21C24</color>
+    <color name="voice_sound">#E21212</color>
+    <color name="seckill_butie">#96652C</color>
 </resources>
