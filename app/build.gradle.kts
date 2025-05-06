@@ -36,6 +36,7 @@ android {
 
     buildFeatures{
         dataBinding = true
+        viewBinding = true
     }
 }
 
@@ -49,4 +50,13 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    implementation(libs.squareup.retrofit)
+    implementation(libs.squareup.converter.gson)
+    implementation(libs.squareup.adapter.rxjava3)
+    implementation(libs.squareup.okhttp)
+    implementation(libs.squareup.logging.interceptor)
+    implementation(libs.rxjava)
+    implementation(libs.rxandroid)
+
 }
