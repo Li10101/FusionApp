@@ -28,6 +28,8 @@ class SplashActivity : AppCompatActivity() {
         binding.btnLogin.setOnClickListener{
             var  username = binding.etUsername.text
             var password = binding.etPassword.text
+
+
         }
 
 
