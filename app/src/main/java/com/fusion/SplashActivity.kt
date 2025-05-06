@@ -29,5 +29,7 @@ class SplashActivity : AppCompatActivity() {
             var  username = binding.etUsername.text
             var password = binding.etPassword.text
         }
+
+
     }
 }
