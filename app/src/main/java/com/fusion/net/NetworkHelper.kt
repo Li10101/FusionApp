@@ -26,7 +26,9 @@ object NetworkHelper {
             .subscribe(
                 { response ->
                     when (response.code) {
-                        200 -> onSuccess(response.data)
+
+                        200 -> {onSuccess(response.data)
+                            Log.d(TAG,"onSuccess:::${response.toString()}")}
                         else -> handleApiError(response.code, response.message)
                     }
                 },
@@ -40,6 +42,7 @@ object NetworkHelper {
 
     private fun handleApiError(code: Int, message: String) {
         // 根据错误码处理特定逻辑
+        Log.d(TAG,"code$code::$message")
     }
 
     private fun handleNetworkError(error: Throwable) {
