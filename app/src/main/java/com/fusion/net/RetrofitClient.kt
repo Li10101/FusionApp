@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 object RetrofitClient {
-    private const val BASE_URL = "http://47.98.151.215:8080"
+    private const val BASE_URL = "https://www.wanandroid.com/"
 
     // 创建OkHttpClient
     private fun createOkHttpClient(): OkHttpClient {

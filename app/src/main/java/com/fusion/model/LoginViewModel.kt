@@ -13,12 +13,14 @@ class LoginViewModel : ViewModel() {
     private val compositeDisposable = CompositeDisposable()
 
     fun login(username: String, password: String) {
-        var hashMap = mapOf<String,String>("username" to username,"password" to password)
+        var loginRequest = LoginRequest(username,password)
+        //var hashMap = mapOf<String,String>("username" to username,"password" to password)
 //        hashMap["username"]  =  username
 //        hashMap["password"]  = password
-        var params = Gson().toJson(hashMap)
+        var params = Gson().toJson(loginRequest)
         val disposable = NetworkHelper.execute(
-            observable = RetrofitClient.apiService.login(params),
+            //observable = RetrofitClient.apiService.login(loginRequest),
+            observable = RetrofitClient.apiService.login(username,password),
             onSuccess = { response ->
                 // 处理登录成功
                 Log.d(TAG,"onSuccess:::${response.toString()}")
